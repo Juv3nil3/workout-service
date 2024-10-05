@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+  xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+            http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.8.xsd">
+
+  <!-- Load main exercise data -->
+  <changeSet id="000007" author="navneet">
+    <loadUpdateData
+      file="classpath:config/liquibase/data/exercises.csv"
+      tableName="exercise"
+      primaryKey="exercise_id"
+      separator=",">
+      <column name="exercise_id" type="varchar(255)"/>
+      <column name="name" header="name" type="varchar(255)"/>
+      <column name="force" header="force" type="varchar(255)"/>
+      <column name="level" header="level" type="varchar(255)"/>
+      <column name="mechanic" header="mechanic" type="varchar(255)"/>
+      <column name="equipment" header="equipment" type="varchar(255)"/>
+      <column name="instructions" header="instructions" type="json"/>
+      <column name="category" header="category" type="varchar(255)"/>
+      <!-- 'rowid' is intentionally omitted -->
+    </loadUpdateData>
+  </changeSet>
+
+  <!-- Load primary muscles data -->
+  <changeSet id="000008" author="navneet">
+    <loadData
+      file="classpath:config/liquibase/data/primary_muscles.csv"
+      tableName="exercise_primary_muscles"
+      primaryKey="exercise_id"
+      separator=",">
+      <column name="exercise_id"  type="varchar(255)"/>
+      <column name="primary_muscle" header="primaryMuscles" type="varchar(255)"/>
+    </loadData>
+  </changeSet>
+
+  <!-- Load secondary muscles data -->
+  <changeSet id="000009" author="navneet">
+    <loadData
+      file="classpath:config/liquibase/data/secondary_muscles.csv"
+      tableName="exercise_secondary_muscles"
+      primaryKey="exercise_id"
+      separator=",">
+      <column name="exercise_id"  type="varchar(255)"/>
+      <column name="secondary_muscles" header="secondaryMuscles" type="varchar(255)"/>
+    </loadData>
+  </changeSet>
+
+  <!-- Load images data -->
+  <changeSet id="000010" author="navneet">
+    <loadData
+      file="classpath:config/liquibase/data/images.csv"
+      tableName="exercise_images"
+      primaryKey="exercise_id"
+      separator=",">
+      <column name="exercise_id"  type="varchar(255)"/>
+      <column name="images" header="images" type="varchar(255)"/>
+    </loadData>
+  </changeSet>
+
+
+</databaseChangeLog>

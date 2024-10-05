@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+  xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+            http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.8.xsd">
+
+  <changeSet id="000003" author="navneet">
+    <createTable tableName="exercise">
+      <column name="exercise_id" type="varchar(255)">
+        <constraints primaryKey="true" nullable="false" unique="true"/>
+      </column>
+      <column name="name" type="varchar(255)">
+        <constraints nullable="false"/>
+      </column>
+      <column name="instructions" type="text"/>
+      <column name="level" type="varchar(255)"/>
+      <column name="mechanic" type="varchar(255)"/>
+      <column name="equipment" type="varchar(255)"/>
+      <column name="category" type="varchar(255)"/>
+      <column name="force" type="varchar(255)"/>
+    </createTable>
+  </changeSet>
+
+  <changeSet id="000004" author="navneet">
+    <createTable tableName="exercise_primary_muscles">
+      <column name="exercise_id" type="varchar(255)">
+        <constraints nullable="false"/>
+      </column>
+      <column name="primary_muscle" type="varchar(255)">
+        <constraints nullable="false"/>
+      </column>
+    </createTable>
+    <addForeignKeyConstraint
+      baseTableName="exercise_primary_muscles"
+      baseColumnNames="exercise_id"
+      referencedTableName="exercise"
+      referencedColumnNames="exercise_id"
+      constraintName="fk_exercise_primary_muscles_exercise"/>
+  </changeSet>
+
+  <changeSet id="000005" author="navneet">
+    <createTable tableName="exercise_secondary_muscles">
+      <column name="exercise_id" type="varchar(255)">
+        <constraints nullable="false"/>
+      </column>
+      <column name="secondary_muscles" type="varchar(255)">
+      </column>
+    </createTable>
+    <addForeignKeyConstraint
+      baseTableName="exercise_secondary_muscles"
+      baseColumnNames="exercise_id"
+      referencedTableName="exercise"
+      referencedColumnNames="exercise_id"
+      constraintName="fk_exercise_secondary_muscles_exercise"/>
+  </changeSet>
+
+  <changeSet id="000006" author="navneet">
+    <createTable tableName="exercise_images">
+      <column name="exercise_id" type="varchar(255)">
+        <constraints nullable="false"/>
+      </column>
+      <column name="images" type="varchar(255)">
+        <constraints nullable="false"/>
+      </column>
+    </createTable>
+    <addForeignKeyConstraint
+      baseTableName="exercise_images"
+      baseColumnNames="exercise_id"
+      referencedTableName="exercise"
+      referencedColumnNames="exercise_id"
+      constraintName="fk_exercise_images_exercise"/>
+  </changeSet>
+
+</databaseChangeLog>

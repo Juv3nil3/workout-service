@@ -1,0 +1,874 @@
+exercise_id,secondaryMuscles
+3_4_Sit-Up,[]
+90_90_Hamstring,"[""calves""]"
+Ab_Crunch_Machine,[]
+Ab_Roller,"[""shoulders""]"
+Adductor,[]
+Adductor_Groin,[]
+Advanced_Kettlebell_Windmill,"[""glutes"", ""hamstrings"", ""shoulders""]"
+Air_Bike,[]
+All_Fours_Quad_Stretch,"[""quadriceps""]"
+Alternate_Hammer_Curl,"[""forearms""]"
+Alternate_Heel_Touchers,[]
+Alternate_Incline_Dumbbell_Curl,"[""forearms""]"
+Alternate_Leg_Diagonal_Bound,"[""abductors"", ""adductors"", ""calves"", ""glutes"", ""hamstrings""]"
+Alternating_Cable_Shoulder_Press,"[""triceps""]"
+Alternating_Deltoid_Raise,[]
+Alternating_Floor_Press,"[""abdominals"", ""shoulders"", ""triceps""]"
+Alternating_Hang_Clean,"[""biceps"", ""calves"", ""forearms"", ""glutes"", ""lower back"", ""traps""]"
+Alternating_Kettlebell_Press,"[""triceps""]"
+Alternating_Kettlebell_Row,"[""biceps"", ""lats""]"
+Alternating_Renegade_Row,"[""abdominals"", ""biceps"", ""chest"", ""lats"", ""triceps""]"
+Ankle_Circles,[]
+Ankle_On_The_Knee,[]
+Anterior_Tibialis-SMR,[]
+Anti-Gravity_Press,"[""middle back"", ""traps"", ""triceps""]"
+Arm_Circles,"[""traps""]"
+Arnold_Dumbbell_Press,"[""triceps""]"
+Around_The_Worlds,"[""shoulders""]"
+Atlas_Stone_Trainer,"[""biceps"", ""forearms"", ""glutes"", ""hamstrings"", ""quadriceps""]"
+Atlas_Stones,"[""abdominals"", ""adductors"", ""biceps"", ""calves"", ""forearms"", ""glutes"", ""hamstrings"", ""middle back"", ""quadriceps"", ""traps""]"
+Axle_Deadlift,"[""forearms"", ""glutes"", ""hamstrings"", ""middle back"", ""quadriceps"", ""traps""]"
+Back_Flyes_-_With_Bands,"[""middle back"", ""triceps""]"
+Backward_Drag,"[""calves"", ""forearms"", ""glutes"", ""hamstrings"", ""lower back""]"
+Backward_Medicine_Ball_Throw,[]
+Balance_Board,"[""hamstrings"", ""quadriceps""]"
+Ball_Leg_Curl,"[""calves"", ""glutes""]"
+Band_Assisted_Pull-Up,"[""abdominals"", ""forearms"", ""middle back""]"
+Band_Good_Morning,"[""glutes"", ""lower back""]"
+Band_Good_Morning_Pull_Through,"[""glutes"", ""lower back""]"
+Band_Hip_Adductions,[]
+Band_Pull_Apart,"[""middle back"", ""traps""]"
+Band_Skull_Crusher,[]
+Barbell_Ab_Rollout,"[""lower back"", ""shoulders""]"
+Barbell_Ab_Rollout_-_On_Knees,"[""lower back"", ""shoulders""]"
+Barbell_Bench_Press_-_Medium_Grip,"[""shoulders"", ""triceps""]"
+Barbell_Curl,"[""forearms""]"
+Barbell_Curls_Lying_Against_An_Incline,[]
+Barbell_Deadlift,"[""calves"", ""forearms"", ""glutes"", ""hamstrings"", ""lats"", ""middle back"", ""quadriceps"", ""traps""]"
+Barbell_Full_Squat,"[""calves"", ""glutes"", ""hamstrings"", ""lower back""]"
+Barbell_Glute_Bridge,"[""calves"", ""hamstrings""]"
+Barbell_Guillotine_Bench_Press,"[""shoulders"", ""triceps""]"
+Barbell_Hack_Squat,"[""calves"", ""forearms"", ""hamstrings""]"
+Barbell_Hip_Thrust,"[""calves"", ""hamstrings""]"
+Barbell_Incline_Bench_Press_-_Medium_Grip,"[""shoulders"", ""triceps""]"
+Barbell_Incline_Shoulder_Raise,"[""chest""]"
+Barbell_Lunge,"[""calves"", ""glutes"", ""hamstrings""]"
+Barbell_Rear_Delt_Row,"[""biceps"", ""lats"", ""middle back""]"
+Barbell_Rollout_from_Bench,"[""glutes"", ""hamstrings"", ""lats"", ""shoulders""]"
+Barbell_Seated_Calf_Raise,[]
+Barbell_Shoulder_Press,"[""chest"", ""triceps""]"
+Barbell_Shrug,[]
+Barbell_Shrug_Behind_The_Back,"[""forearms"", ""middle back""]"
+Barbell_Side_Bend,"[""lower back""]"
+Barbell_Side_Split_Squat,"[""calves"", ""hamstrings"", ""lower back""]"
+Barbell_Squat,"[""calves"", ""glutes"", ""hamstrings"", ""lower back""]"
+Barbell_Squat_To_A_Bench,"[""calves"", ""glutes"", ""hamstrings"", ""lower back""]"
+Barbell_Step_Ups,"[""calves"", ""glutes"", ""hamstrings"", ""quadriceps""]"
+Barbell_Walking_Lunge,"[""calves"", ""glutes"", ""hamstrings""]"
+Battling_Ropes,"[""chest"", ""forearms""]"
+Bear_Crawl_Sled_Drags,"[""calves"", ""glutes"", ""hamstrings""]"
+Behind_Head_Chest_Stretch,"[""shoulders""]"
+Bench_Dips,"[""chest"", ""shoulders""]"
+Bench_Jump,"[""calves"", ""glutes"", ""hamstrings""]"
+Bench_Press_-_Powerlifting,"[""chest"", ""forearms"", ""lats"", ""shoulders""]"
+Bench_Press_-_With_Bands,"[""shoulders"", ""triceps""]"
+Bench_Press_with_Chains,"[""chest"", ""lats"", ""shoulders""]"
+Bench_Sprint,"[""calves"", ""glutes"", ""hamstrings""]"
+Bent-Arm_Barbell_Pullover,"[""chest"", ""lats"", ""shoulders"", ""triceps""]"
+Bent-Arm_Dumbbell_Pullover,"[""lats"", ""shoulders"", ""triceps""]"
+Bent-Knee_Hip_Raise,[]
+Bent_Over_Barbell_Row,"[""biceps"", ""lats"", ""shoulders""]"
+Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench,[]
+Bent_Over_Low-Pulley_Side_Lateral,"[""lower back"", ""middle back"", ""traps""]"
+Bent_Over_One-Arm_Long_Bar_Row,"[""biceps"", ""lats"", ""lower back"", ""traps""]"
+Bent_Over_Two-Arm_Long_Bar_Row,"[""biceps"", ""lats""]"
+Bent_Over_Two-Dumbbell_Row,"[""biceps"", ""lats"", ""shoulders""]"
+Bent_Over_Two-Dumbbell_Row_With_Palms_In,"[""biceps"", ""lats""]"
+Bent_Press,"[""glutes"", ""hamstrings"", ""lower back"", ""quadriceps"", ""shoulders"", ""triceps""]"
+Bicycling,"[""calves"", ""glutes"", ""hamstrings""]"
+Bicycling_Stationary,"[""calves"", ""glutes"", ""hamstrings""]"
+Board_Press,"[""chest"", ""forearms"", ""lats"", ""shoulders""]"
+Body-Up,"[""abdominals"", ""forearms""]"
+Body_Tricep_Press,[]
+Bodyweight_Flyes,"[""abdominals"", ""shoulders"", ""triceps""]"
+Bodyweight_Mid_Row,"[""biceps"", ""lats""]"
+Bodyweight_Squat,"[""glutes"", ""hamstrings""]"
+Bodyweight_Walking_Lunge,"[""calves"", ""glutes"", ""hamstrings""]"
+Bosu_Ball_Cable_Crunch_With_Side_Bends,[]
+Bottoms-Up_Clean_From_The_Hang_Position,"[""biceps"", ""shoulders""]"
+Bottoms_Up,[]
+Box_Jump_Multiple_Response,"[""abductors"", ""adductors"", ""calves"", ""glutes"", ""quadriceps""]"
+Box_Skip,"[""abductors"", ""adductors"", ""calves"", ""glutes"", ""quadriceps""]"
+Box_Squat,"[""adductors"", ""calves"", ""glutes"", ""hamstrings"", ""lower back""]"
+Box_Squat_with_Bands,"[""abductors"", ""adductors"", ""calves"", ""glutes"", ""hamstrings"", ""lower back""]"
+Box_Squat_with_Chains,"[""abductors"", ""adductors"", ""calves"", ""glutes"", ""hamstrings"", ""lower back""]"
+Brachialis-SMR,[]
+Bradford_Rocky_Presses,"[""triceps""]"
+Butt-Ups,[]
+Butt_Lift_Bridge,"[""hamstrings""]"
+Butterfly,[]
+Cable_Chest_Press,"[""shoulders"", ""triceps""]"
+Cable_Crossover,"[""shoulders""]"
+Cable_Crunch,[]
+Cable_Deadlifts,"[""forearms"", ""glutes"", ""hamstrings"", ""lower back""]"
+Cable_Hammer_Curls_-_Rope_Attachment,[]
+Cable_Hip_Adduction,[]
+Cable_Incline_Pushdown,[]
+Cable_Incline_Triceps_Extension,[]
+Cable_Internal_Rotation,[]
+Cable_Iron_Cross,[]
+Cable_Judo_Flip,[]
+Cable_Lying_Triceps_Extension,[]
+Cable_One_Arm_Tricep_Extension,[]
+Cable_Preacher_Curl,"[""forearms""]"
+Cable_Rear_Delt_Fly,[]
+Cable_Reverse_Crunch,[]
+Cable_Rope_Overhead_Triceps_Extension,[]
+Cable_Rope_Rear-Delt_Rows,"[""biceps"", ""middle back""]"
+Cable_Russian_Twists,[]
+Cable_Seated_Crunch,[]
+Cable_Seated_Lateral_Raise,"[""middle back"", ""traps""]"
+Cable_Shoulder_Press,"[""triceps""]"
+Cable_Shrugs,[]
+Cable_Wrist_Curl,[]
+Calf-Machine_Shoulder_Shrug,[]
+Calf_Press,[]
+Calf_Press_On_The_Leg_Press_Machine,[]
+Calf_Raise_On_A_Dumbbell,[]
+Calf_Raises_-_With_Bands,[]
+Calf_Stretch_Elbows_Against_Wall,[]
+Calf_Stretch_Hands_Against_Wall,[]
+Calves-SMR,[]
+Car_Deadlift,"[""forearms"", ""glutes"", ""hamstrings"", ""lower back"", ""traps""]"
+Car_Drivers,"[""forearms""]"
+Carioca_Quick_Step,"[""abdominals"", ""abductors"", ""calves"", ""glutes"", ""hamstrings"", ""quadriceps""]"
+Cat_Stretch,"[""middle back"", ""traps""]"
+Catch_and_Overhead_Throw,"[""abdominals"", ""chest"", ""shoulders""]"
+Chain_Handle_Extension,[]
+Chain_Press,"[""shoulders"", ""triceps""]"
+Chair_Leg_Extended_Stretch,"[""adductors""]"
+Chair_Lower_Back_Stretch,"[""lower back""]"
+Chair_Squat,"[""calves"", ""glutes"", ""hamstrings""]"
+Chair_Upper_Body_Stretch,"[""biceps"", ""chest""]"
+Chest_And_Front_Of_Shoulder_Stretch,"[""shoulders""]"
+Chest_Push_from_3_point_stance,"[""abdominals"", ""shoulders"", ""triceps""]"
+Chest_Push_multiple_response,"[""abdominals"", ""shoulders"", ""triceps""]"
+Chest_Push_single_response,"[""abdominals"", ""shoulders"", ""triceps""]"
+Chest_Push_with_Run_Release,"[""abdominals"", ""shoulders"", ""triceps""]"
+Chest_Stretch_on_Stability_Ball,[]
+Childs_Pose,"[""glutes"", ""middle back""]"
+Chin-Up,"[""biceps"", ""forearms"", ""middle back""]"
+Chin_To_Chest_Stretch,"[""traps""]"
+Circus_Bell,"[""forearms"", ""glutes"", ""hamstrings"", ""lower back"", ""traps"", ""triceps""]"
+Clean,"[""calves"", ""forearms"", ""glutes"", ""lower back"", ""quadriceps"", ""shoulders"", ""traps""]"
+Clean_Deadlift,"[""forearms"", ""glutes"", ""lower back"", ""middle back"", ""quadriceps"", ""traps""]"
+Clean_Pull,"[""forearms"", ""glutes"", ""hamstrings"", ""lower back"", ""traps""]"
+Clean_Shrug,"[""forearms"", ""shoulders""]"
+Clean_and_Jerk,"[""abdominals"", ""glutes"", ""hamstrings"", ""lower back"", ""quadriceps"", ""traps"", ""triceps""]"
+Clean_and_Press,"[""abdominals"", ""calves"", ""glutes"", ""hamstrings"", ""lower back"", ""middle back"", ""quadriceps"", ""shoulders"", ""traps"", ""triceps""]"
+Clean_from_Blocks,"[""calves"", ""glutes"", ""hamstrings"", ""shoulders"", ""traps""]"
+Clock_Push-Up,"[""shoulders"", ""triceps""]"
+Close-Grip_Barbell_Bench_Press,"[""chest"", ""shoulders""]"
+Close-Grip_Dumbbell_Press,"[""chest"", ""shoulders""]"
+Close-Grip_EZ-Bar_Curl_with_Band,"[""forearms""]"
+Close-Grip_EZ-Bar_Press,"[""chest"", ""shoulders""]"
+Close-Grip_EZ_Bar_Curl,"[""forearms""]"
+Close-Grip_Front_Lat_Pulldown,"[""biceps"", ""middle back"", ""shoulders""]"
+Close-Grip_Push-Up_off_of_a_Dumbbell,"[""abdominals"", ""chest"", ""shoulders""]"
+Close-Grip_Standing_Barbell_Curl,"[""forearms""]"
+Cocoons,[]
+Conans_Wheel,"[""abdominals"", ""biceps"", ""calves"", ""forearms"", ""lower back"", ""shoulders"", ""traps""]"
+Concentration_Curls,"[""forearms""]"
+Cross-Body_Crunch,[]
+Cross_Body_Hammer_Curl,"[""forearms""]"
+Cross_Over_-_With_Bands,"[""biceps"", ""shoulders""]"
+Crossover_Reverse_Lunge,"[""abdominals"", ""abductors"", ""glutes"", ""hamstrings"", ""quadriceps""]"
+Crucifix,"[""forearms""]"
+Crunch_-_Hands_Overhead,[]
+Crunch_-_Legs_On_Exercise_Ball,[]
+Crunches,[]
+Cuban_Press,"[""traps""]"
+Dancers_Stretch,"[""abductors"", ""glutes""]"
+Dead_Bug,[]
+Deadlift_with_Bands,"[""forearms"", ""glutes"", ""hamstrings"", ""middle back"", ""quadriceps"", ""traps""]"
+Deadlift_with_Chains,"[""forearms"", ""glutes"", ""hamstrings"", ""middle back"", ""quadriceps"", ""traps""]"
+Decline_Barbell_Bench_Press,"[""shoulders"", ""triceps""]"
+Decline_Close-Grip_Bench_To_Skull_Crusher,"[""chest"", ""shoulders""]"
+Decline_Crunch,[]
+Decline_Dumbbell_Bench_Press,"[""shoulders"", ""triceps""]"
+Decline_Dumbbell_Flyes,[]
+Decline_Dumbbell_Triceps_Extension,[]
+Decline_EZ_Bar_Triceps_Extension,[]
+Decline_Oblique_Crunch,[]
+Decline_Push-Up,"[""shoulders"", ""triceps""]"
+Decline_Reverse_Crunch,[]
+Decline_Smith_Press,"[""shoulders"", ""triceps""]"
+Deficit_Deadlift,"[""forearms"", ""glutes"", ""hamstrings"", ""middle back"", ""quadriceps"", ""traps""]"
+Depth_Jump_Leap,"[""abductors"", ""adductors"", ""calves"", ""glutes"", ""hamstrings""]"
+Dip_Machine,"[""chest"", ""shoulders""]"
+Dips_-_Chest_Version,"[""shoulders"", ""triceps""]"
+Dips_-_Triceps_Version,"[""chest"", ""shoulders""]"
+Donkey_Calf_Raises,[]
+Double_Kettlebell_Alternating_Hang_Clean,"[""biceps"", ""calves"", ""forearms"", ""glutes"", ""lower back"", ""quadriceps"", ""traps""]"
+Double_Kettlebell_Jerk,"[""calves"", ""quadriceps"", ""triceps""]"
+Double_Kettlebell_Push_Press,"[""calves"", ""quadriceps"", ""triceps""]"
+Double_Kettlebell_Snatch,"[""glutes"", ""hamstrings"", ""quadriceps""]"
+Double_Kettlebell_Windmill,"[""glutes"", ""hamstrings"", ""shoulders"", ""triceps""]"
+Double_Leg_Butt_Kick,"[""abductors"", ""adductors"", ""calves"", ""glutes"", ""hamstrings""]"
+Downward_Facing_Balance,"[""abdominals"", ""hamstrings""]"
+Drag_Curl,"[""forearms""]"
+Drop_Push,"[""shoulders"", ""triceps""]"
+Dumbbell_Alternate_Bicep_Curl,"[""forearms""]"
+Dumbbell_Bench_Press,"[""shoulders"", ""triceps""]"
+Dumbbell_Bench_Press_with_Neutral_Grip,"[""shoulders"", ""triceps""]"
+Dumbbell_Bicep_Curl,"[""forearms""]"
+Dumbbell_Clean,"[""calves"", ""forearms"", ""glutes"", ""lower back"", ""quadriceps"", ""shoulders"", ""traps""]"
+Dumbbell_Floor_Press,"[""chest"", ""shoulders""]"
+Dumbbell_Flyes,[]
+Dumbbell_Incline_Row,"[""biceps"", ""forearms"", ""lats"", ""shoulders""]"
+Dumbbell_Incline_Shoulder_Raise,"[""triceps""]"
+Dumbbell_Lunges,"[""calves"", ""glutes"", ""hamstrings""]"
+Dumbbell_Lying_One-Arm_Rear_Lateral_Raise,"[""middle back""]"
+Dumbbell_Lying_Pronation,[]
+Dumbbell_Lying_Rear_Lateral_Raise,[]
+Dumbbell_Lying_Supination,[]
+Dumbbell_One-Arm_Shoulder_Press,"[""triceps""]"
+Dumbbell_One-Arm_Triceps_Extension,[]
+Dumbbell_One-Arm_Upright_Row,"[""biceps"", ""traps""]"
+Dumbbell_Prone_Incline_Curl,[]
+Dumbbell_Raise,"[""biceps""]"
+Dumbbell_Rear_Lunge,"[""calves"", ""glutes"", ""hamstrings""]"
+Dumbbell_Scaption,"[""traps""]"
+Dumbbell_Seated_Box_Jump,"[""calves"", ""glutes"", ""hamstrings""]"
+Dumbbell_Seated_One-Leg_Calf_Raise,[]
+Dumbbell_Shoulder_Press,"[""triceps""]"
+Dumbbell_Shrug,[]
+Dumbbell_Side_Bend,[]
+Dumbbell_Squat,"[""calves"", ""glutes"", ""hamstrings"", ""lower back""]"
+Dumbbell_Squat_To_A_Bench,"[""calves"", ""glutes"", ""hamstrings"", ""lower back""]"
+Dumbbell_Step_Ups,"[""calves"", ""glutes"", ""hamstrings""]"
+Dumbbell_Tricep_Extension_-Pronated_Grip,[]
+Dynamic_Back_Stretch,[]
+Dynamic_Chest_Stretch,"[""middle back""]"
+EZ-Bar_Curl,[]
+EZ-Bar_Skullcrusher,"[""forearms""]"
+Elbow_Circles,"[""traps""]"
+Elbow_to_Knee,[]
+Elbows_Back,"[""shoulders""]"
+Elevated_Back_Lunge,"[""glutes"", ""hamstrings""]"
+Elevated_Cable_Rows,"[""middle back"", ""traps""]"
+Elliptical_Trainer,"[""calves"", ""glutes"", ""hamstrings""]"
+Exercise_Ball_Crunch,[]
+Exercise_Ball_Pull-In,[]
+Extended_Range_One-Arm_Kettlebell_Floor_Press,"[""shoulders"", ""triceps""]"
+External_Rotation,[]
+External_Rotation_with_Band,[]
+External_Rotation_with_Cable,[]
+Face_Pull,"[""middle back""]"
+Farmers_Walk,"[""abdominals"", ""glutes"", ""hamstrings"", ""lower back"", ""quadriceps"", ""traps""]"
+Fast_Skipping,"[""abductors"", ""adductors"", ""calves"", ""glutes"", ""hamstrings""]"
+Finger_Curls,[]
+Flat_Bench_Cable_Flyes,[]
+Flat_Bench_Leg_Pull-In,[]
+Flat_Bench_Lying_Leg_Raise,[]
+Flexor_Incline_Dumbbell_Curls,[]
+Floor_Glute-Ham_Raise,"[""calves"", ""glutes""]"
+Floor_Press,"[""chest"", ""shoulders""]"
+Floor_Press_with_Chains,"[""chest"", ""shoulders""]"
+Flutter_Kicks,"[""hamstrings""]"
+Foot-SMR,[]
+Forward_Drag_with_Press,"[""calves"", ""glutes"", ""hamstrings"", ""quadriceps"", ""shoulders"", ""triceps""]"
+Frankenstein_Squat,"[""abdominals"", ""calves"", ""glutes"", ""hamstrings""]"
+Freehand_Jump_Squat,"[""calves"", ""glutes"", ""hamstrings""]"
+Frog_Hops,"[""calves"", ""glutes"", ""hamstrings""]"
+Frog_Sit-Ups,[]
+Front_Barbell_Squat,"[""calves"", ""glutes"", ""hamstrings""]"
+Front_Barbell_Squat_To_A_Bench,"[""calves"", ""glutes"", ""hamstrings""]"
+Front_Box_Jump,"[""abductors"", ""adductors"", ""calves"", ""glutes"", ""quadriceps""]"
+Front_Cable_Raise,[]
+Front_Cone_Hops_or_hurdle_hops,"[""abductors"", ""adductors"", ""calves"", ""glutes"", ""hamstrings""]"
+Front_Dumbbell_Raise,[]
+Front_Incline_Dumbbell_Raise,[]
+Front_Leg_Raises,[]
+Front_Plate_Raise,[]
+Front_Raise_And_Pullover,"[""lats"", ""shoulders"", ""triceps""]"
+Front_Squat_Clean_Grip,"[""abdominals"", ""glutes"", ""hamstrings""]"
+Front_Squats_With_Two_Kettlebells,"[""calves"", ""glutes""]"
+Front_Two-Dumbbell_Raise,[]
+Full_Range-Of-Motion_Lat_Pulldown,"[""biceps"", ""middle back"", ""shoulders""]"
+Gironda_Sternum_Chins,"[""biceps"", ""middle back""]"
+Glute_Ham_Raise,"[""calves"", ""glutes""]"
+Glute_Kickback,"[""hamstrings""]"
+Goblet_Squat,"[""calves"", ""glutes"", ""hamstrings"", ""shoulders""]"
+Good_Morning,"[""abdominals"", ""glutes"", ""lower back""]"
+Good_Morning_off_Pins,"[""abdominals"", ""glutes"", ""lower back""]"
+Gorilla_Chin_Crunch,"[""biceps"", ""lats""]"
+Groin_and_Back_Stretch,[]
+Groiners,[]
+Hack_Squat,"[""calves"", ""glutes"", ""hamstrings""]"
+Hammer_Curls,[]
+Hammer_Grip_Incline_DB_Bench_Press,"[""shoulders"", ""triceps""]"
+Hamstring-SMR,[]
+Hamstring_Stretch,[]
+Handstand_Push-Ups,"[""triceps""]"
+Hang_Clean,"[""calves"", ""forearms"", ""glutes"", ""hamstrings"", ""lower back"", ""shoulders"", ""traps""]"
+Hang_Clean_-_Below_the_Knees,"[""calves"", ""forearms"", ""glutes"", ""hamstrings"", ""lower back"", ""shoulders"", ""traps""]"
+Hang_Snatch,"[""abdominals"", ""calves"", ""forearms"", ""glutes"", ""lower back"", ""quadriceps"", ""shoulders"", ""traps""]"
+Hang_Snatch_-_Below_Knees,"[""abdominals"", ""calves"", ""forearms"", ""glutes"", ""lower back"", ""quadriceps"", ""shoulders"", ""traps""]"
+Hanging_Bar_Good_Morning,"[""abdominals"", ""glutes"", ""lower back""]"
+Hanging_Leg_Raise,[]
+Hanging_Pike,[]
+Heaving_Snatch_Balance,"[""abdominals"", ""forearms"", ""glutes"", ""hamstrings"", ""shoulders"", ""triceps""]"
+Heavy_Bag_Thrust,"[""abdominals"", ""shoulders"", ""triceps""]"
+High_Cable_Curls,[]
+Hip_Circles_prone,"[""adductors""]"
+Hip_Extension_with_Bands,"[""hamstrings""]"
+Hip_Flexion_with_Band,[]
+Hip_Lift_with_Band,"[""calves"", ""hamstrings""]"
+Hug_A_Ball,"[""calves"", ""glutes""]"
+Hug_Knees_To_Chest,"[""glutes""]"
+Hurdle_Hops,"[""abductors"", ""adductors"", ""calves"", ""glutes"", ""hamstrings""]"
+Hyperextensions_Back_Extensions,"[""glutes"", ""hamstrings""]"
+Hyperextensions_With_No_Hyperextension_Bench,"[""glutes"", ""hamstrings""]"
+IT_Band_and_Glute_Stretch,[]
+Iliotibial_Tract-SMR,[]
+Inchworm,[]
+Incline_Barbell_Triceps_Extension,"[""forearms""]"
+Incline_Bench_Pull,"[""lats"", ""shoulders""]"
+Incline_Cable_Chest_Press,"[""shoulders"", ""triceps""]"
+Incline_Cable_Flye,"[""shoulders""]"
+Incline_Dumbbell_Bench_With_Palms_Facing_In,"[""shoulders"", ""triceps""]"
+Incline_Dumbbell_Curl,[]
+Incline_Dumbbell_Flyes,"[""shoulders""]"
+Incline_Dumbbell_Flyes_-_With_A_Twist,"[""shoulders""]"
+Incline_Dumbbell_Press,"[""shoulders"", ""triceps""]"
+Incline_Hammer_Curls,[]
+Incline_Inner_Biceps_Curl,[]
+Incline_Push-Up,"[""shoulders"", ""triceps""]"
+Incline_Push-Up_Close-Grip,"[""chest"", ""shoulders""]"
+Incline_Push-Up_Depth_Jump,"[""shoulders"", ""triceps""]"
+Incline_Push-Up_Medium,"[""abdominals"", ""shoulders"", ""triceps""]"
+Incline_Push-Up_Reverse_Grip,"[""abdominals"", ""shoulders"", ""triceps""]"
+Incline_Push-Up_Wide,"[""abdominals"", ""shoulders"", ""triceps""]"
+Intermediate_Groin_Stretch,[]
+Intermediate_Hip_Flexor_and_Quad_Stretch,[]
+Internal_Rotation_with_Band,[]
+Inverted_Row,"[""lats""]"
+Inverted_Row_with_Straps,"[""biceps"", ""lats""]"
+Iron_Cross,"[""chest"", ""glutes"", ""hamstrings"", ""lower back"", ""quadriceps"", ""traps""]"
+Iron_Crosses_stretch,[]
+Isometric_Chest_Squeezes,"[""shoulders"", ""triceps""]"
+Isometric_Neck_Exercise_-_Front_And_Back,[]
+Isometric_Neck_Exercise_-_Sides,[]
+Isometric_Wipers,"[""abdominals"", ""shoulders"", ""triceps""]"
+JM_Press,"[""chest"", ""shoulders""]"
+Jackknife_Sit-Up,[]
+Janda_Sit-Up,[]
+Jefferson_Squats,"[""calves"", ""glutes"", ""hamstrings"", ""lower back"", ""traps""]"
+Jerk_Balance,"[""glutes"", ""hamstrings"", ""quadriceps"", ""triceps""]"
+Jerk_Dip_Squat,"[""abdominals"", ""calves""]"
+Jogging_Treadmill,"[""glutes"", ""hamstrings""]"
+Keg_Load,"[""abdominals"", ""biceps"", ""calves"", ""forearms"", ""glutes"", ""hamstrings"", ""middle back"", ""quadriceps"", ""shoulders"", ""traps""]"
+Kettlebell_Arnold_Press,"[""triceps""]"
+Kettlebell_Dead_Clean,"[""calves"", ""glutes"", ""lower back"", ""quadriceps"", ""traps""]"
+Kettlebell_Figure_8,"[""hamstrings"", ""shoulders""]"
+Kettlebell_Hang_Clean,"[""calves"", ""glutes"", ""lower back"", ""shoulders"", ""traps""]"
+Kettlebell_One-Legged_Deadlift,"[""glutes"", ""lower back""]"
+Kettlebell_Pass_Between_The_Legs,"[""glutes"", ""hamstrings"", ""shoulders""]"
+Kettlebell_Pirate_Ships,"[""abdominals""]"
+Kettlebell_Pistol_Squat,"[""calves"", ""glutes"", ""hamstrings"", ""shoulders""]"
+Kettlebell_Seated_Press,"[""triceps""]"
+Kettlebell_Seesaw_Press,"[""triceps""]"
+Kettlebell_Sumo_High_Pull,"[""adductors"", ""glutes"", ""hamstrings"", ""quadriceps"", ""shoulders""]"
+Kettlebell_Thruster,"[""quadriceps"", ""triceps""]"
+Kettlebell_Turkish_Get-Up_Lunge_style,"[""abdominals"", ""hamstrings"", ""quadriceps"", ""triceps""]"
+Kettlebell_Turkish_Get-Up_Squat_style,"[""abdominals"", ""calves"", ""hamstrings"", ""quadriceps"", ""triceps""]"
+Kettlebell_Windmill,"[""glutes"", ""hamstrings"", ""shoulders"", ""triceps""]"
+Kipping_Muscle_Up,"[""abdominals"", ""biceps"", ""forearms"", ""middle back"", ""shoulders"", ""traps"", ""triceps""]"
+Knee_Across_The_Body,"[""abductors"", ""lower back""]"
+Knee_Circles,"[""hamstrings"", ""quadriceps""]"
+Knee_Hip_Raise_On_Parallel_Bars,[]
+Knee_Tuck_Jump,"[""abductors"", ""adductors"", ""calves"", ""glutes"", ""quadriceps""]"
+Kneeling_Arm_Drill,"[""abdominals""]"
+Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists,[]
+Kneeling_Cable_Triceps_Extension,[]
+Kneeling_Forearm_Stretch,[]
+Kneeling_High_Pulley_Row,"[""biceps"", ""middle back""]"
+Kneeling_Hip_Flexor,"[""quadriceps""]"
+Kneeling_Jump_Squat,"[""calves"", ""hamstrings"", ""quadriceps""]"
+Kneeling_Single-Arm_High_Pulley_Row,"[""biceps"", ""middle back""]"
+Kneeling_Squat,"[""abdominals"", ""hamstrings"", ""lower back""]"
+Landmine_180s,"[""glutes"", ""lower back"", ""shoulders""]"
+Landmine_Linear_Jammer,"[""abdominals"", ""calves"", ""chest"", ""hamstrings"", ""quadriceps"", ""triceps""]"
+Lateral_Bound,"[""abductors"", ""calves"", ""glutes"", ""hamstrings"", ""quadriceps""]"
+Lateral_Box_Jump,"[""abductors"", ""calves"", ""glutes"", ""hamstrings"", ""quadriceps""]"
+Lateral_Cone_Hops,"[""abductors"", ""calves"", ""glutes"", ""hamstrings"", ""quadriceps""]"
+Lateral_Raise_-_With_Bands,[]
+Latissimus_Dorsi-SMR,[]
+Leg-Over_Floor_Press,"[""shoulders"", ""triceps""]"
+Leg-Up_Hamstring_Stretch,[]
+Leg_Extensions,[]
+Leg_Lift,"[""hamstrings""]"
+Leg_Press,"[""calves"", ""glutes"", ""hamstrings""]"
+Leg_Pull-In,[]
+Leverage_Chest_Press,"[""shoulders"", ""triceps""]"
+Leverage_Deadlift,"[""glutes"", ""hamstrings""]"
+Leverage_Decline_Chest_Press,"[""shoulders"", ""triceps""]"
+Leverage_High_Row,"[""lats""]"
+Leverage_Incline_Chest_Press,"[""shoulders"", ""triceps""]"
+Leverage_Iso_Row,"[""biceps"", ""middle back""]"
+Leverage_Shoulder_Press,"[""triceps""]"
+Leverage_Shrug,"[""forearms""]"
+Linear_3-Part_Start_Technique,"[""calves"", ""quadriceps""]"
+Linear_Acceleration_Wall_Drill,"[""calves"", ""glutes"", ""quadriceps""]"
+Linear_Depth_Jump,"[""calves"", ""glutes"", ""hamstrings""]"
+Log_Lift,"[""abdominals"", ""chest"", ""glutes"", ""hamstrings"", ""lower back"", ""middle back"", ""quadriceps"", ""traps"", ""triceps""]"
+London_Bridges,"[""biceps"", ""forearms"", ""middle back""]"
+Looking_At_Ceiling,[]
+Low_Cable_Crossover,"[""shoulders""]"
+Low_Cable_Triceps_Extension,[]
+Low_Pulley_Row_To_Neck,"[""biceps"", ""middle back"", ""traps""]"
+Lower_Back-SMR,[]
+Lower_Back_Curl,[]
+Lunge_Pass_Through,"[""calves"", ""glutes"", ""quadriceps""]"
+Lunge_Sprint,"[""calves"", ""glutes"", ""hamstrings""]"
+Lying_Bent_Leg_Groin,[]
+Lying_Cable_Curl,[]
+Lying_Cambered_Barbell_Row,"[""biceps"", ""lats"", ""traps""]"
+Lying_Close-Grip_Bar_Curl_On_High_Pulley,[]
+Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head,[]
+Lying_Close-Grip_Barbell_Triceps_Press_To_Chin,[]
+Lying_Crossover,[]
+Lying_Dumbbell_Tricep_Extension,"[""chest"", ""shoulders""]"
+Lying_Face_Down_Plate_Neck_Resistance,[]
+Lying_Face_Up_Plate_Neck_Resistance,[]
+Lying_Glute,"[""abductors""]"
+Lying_Hamstring,"[""calves""]"
+Lying_High_Bench_Barbell_Curl,[]
+Lying_Leg_Curls,[]
+Lying_Machine_Squat,"[""calves"", ""glutes"", ""hamstrings""]"
+Lying_One-Arm_Lateral_Raise,[]
+Lying_Prone_Quadriceps,[]
+Lying_Rear_Delt_Raise,[]
+Lying_Supine_Dumbbell_Curl,[]
+Lying_T-Bar_Row,"[""biceps"", ""lats""]"
+Lying_Triceps_Press,[]
+Machine_Bench_Press,"[""shoulders"", ""triceps""]"
+Machine_Bicep_Curl,[]
+Machine_Preacher_Curls,[]
+Machine_Shoulder_Military_Press,"[""triceps""]"
+Machine_Triceps_Extension,[]
+Medicine_Ball_Chest_Pass,"[""shoulders"", ""triceps""]"
+Medicine_Ball_Full_Twist,"[""shoulders""]"
+Medicine_Ball_Scoop_Throw,"[""abdominals"", ""hamstrings"", ""quadriceps""]"
+Middle_Back_Shrug,[]
+Middle_Back_Stretch,"[""abdominals"", ""lats"", ""lower back""]"
+Mixed_Grip_Chin,"[""biceps"", ""lats""]"
+Monster_Walk,[]
+Mountain_Climbers,"[""chest"", ""hamstrings"", ""shoulders""]"
+Moving_Claw_Series,"[""calves"", ""quadriceps""]"
+Muscle_Snatch,"[""glutes"", ""lower back"", ""quadriceps"", ""shoulders"", ""triceps""]"
+Muscle_Up,"[""abdominals"", ""biceps"", ""forearms"", ""middle back"", ""shoulders"", ""traps"", ""triceps""]"
+Narrow_Stance_Hack_Squats,"[""calves"", ""glutes"", ""hamstrings""]"
+Narrow_Stance_Leg_Press,"[""calves"", ""glutes"", ""hamstrings""]"
+Narrow_Stance_Squats,"[""calves"", ""glutes"", ""hamstrings"", ""lower back""]"
+Natural_Glute_Ham_Raise,"[""calves"", ""glutes"", ""lower back""]"
+Neck-SMR,[]
+Neck_Press,"[""shoulders"", ""triceps""]"
+Oblique_Crunches,[]
+Oblique_Crunches_-_On_The_Floor,[]
+Olympic_Squat,"[""calves"", ""glutes"", ""hamstrings""]"
+On-Your-Back_Quad_Stretch,[]
+On_Your_Side_Quad_Stretch,[]
+One-Arm_Dumbbell_Row,"[""biceps"", ""lats"", ""shoulders""]"
+One-Arm_Flat_Bench_Dumbbell_Flye,[]
+One-Arm_High-Pulley_Cable_Side_Bends,[]
+One-Arm_Incline_Lateral_Raise,[]
+One-Arm_Kettlebell_Clean,"[""glutes"", ""lower back"", ""shoulders"", ""traps""]"
+One-Arm_Kettlebell_Clean_and_Jerk,[]
+One-Arm_Kettlebell_Floor_Press,"[""triceps""]"
+One-Arm_Kettlebell_Jerk,"[""calves"", ""quadriceps"", ""triceps""]"
+One-Arm_Kettlebell_Military_Press_To_The_Side,"[""triceps""]"
+One-Arm_Kettlebell_Para_Press,"[""triceps""]"
+One-Arm_Kettlebell_Push_Press,"[""calves"", ""quadriceps"", ""triceps""]"
+One-Arm_Kettlebell_Row,"[""biceps"", ""lats""]"
+One-Arm_Kettlebell_Snatch,"[""calves"", ""glutes"", ""hamstrings"", ""lower back"", ""traps"", ""triceps""]"
+One-Arm_Kettlebell_Split_Jerk,"[""glutes"", ""hamstrings"", ""quadriceps"", ""triceps""]"
+One-Arm_Kettlebell_Split_Snatch,"[""hamstrings"", ""quadriceps""]"
+One-Arm_Kettlebell_Swings,"[""calves"", ""glutes"", ""lower back"", ""shoulders""]"
+One-Arm_Long_Bar_Row,"[""biceps"", ""lats""]"
+One-Arm_Medicine_Ball_Slam,"[""lats"", ""shoulders""]"
+One-Arm_Open_Palm_Kettlebell_Clean,"[""forearms"", ""glutes"", ""lower back"", ""quadriceps"", ""shoulders""]"
+One-Arm_Overhead_Kettlebell_Squats,"[""calves"", ""glutes"", ""hamstrings"", ""shoulders""]"
+One-Arm_Side_Deadlift,"[""abdominals"", ""calves"", ""glutes"", ""hamstrings"", ""lower back"", ""traps""]"
+One-Arm_Side_Laterals,[]
+One-Legged_Cable_Kickback,"[""hamstrings""]"
+One_Arm_Against_Wall,[]
+One_Arm_Chin-Up,"[""biceps"", ""forearms"", ""lats""]"
+One_Arm_Dumbbell_Bench_Press,"[""shoulders"", ""triceps""]"
+One_Arm_Dumbbell_Preacher_Curl,[]
+One_Arm_Floor_Press,"[""chest"", ""shoulders""]"
+One_Arm_Lat_Pulldown,"[""biceps"", ""middle back""]"
+One_Arm_Pronated_Dumbbell_Triceps_Extension,[]
+One_Arm_Supinated_Dumbbell_Triceps_Extension,[]
+One_Half_Locust,"[""abdominals"", ""biceps"", ""chest""]"
+One_Handed_Hang,"[""biceps""]"
+One_Knee_To_Chest,"[""hamstrings"", ""lower back""]"
+One_Leg_Barbell_Squat,"[""calves"", ""glutes"", ""hamstrings""]"
+Open_Palm_Kettlebell_Clean,"[""glutes"", ""lower back"", ""quadriceps"", ""shoulders""]"
+Otis-Up,"[""chest"", ""shoulders"", ""triceps""]"
+Overhead_Cable_Curl,[]
+Overhead_Lat,"[""triceps""]"
+Overhead_Slam,[]
+Overhead_Squat,"[""abdominals"", ""calves"", ""glutes"", ""hamstrings"", ""lower back"", ""shoulders"", ""triceps""]"
+Overhead_Stretch,"[""chest"", ""forearms"", ""lats"", ""triceps""]"
+Overhead_Triceps,"[""lats""]"
+Pallof_Press,"[""chest"", ""shoulders"", ""triceps""]"
+Pallof_Press_With_Rotation,"[""chest"", ""shoulders"", ""triceps""]"
+Palms-Down_Dumbbell_Wrist_Curl_Over_A_Bench,[]
+Palms-Down_Wrist_Curl_Over_A_Bench,[]
+Palms-Up_Barbell_Wrist_Curl_Over_A_Bench,[]
+Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench,[]
+Parallel_Bar_Dip,"[""chest"", ""shoulders""]"
+Pelvic_Tilt_Into_Bridge,[]
+Peroneals-SMR,[]
+Peroneals_Stretch,[]
+Physioball_Hip_Bridge,"[""hamstrings""]"
+Pin_Presses,"[""chest"", ""forearms"", ""lats"", ""middle back"", ""shoulders""]"
+Piriformis-SMR,[]
+Plank,[]
+Plate_Pinch,[]
+Plate_Twist,[]
+Platform_Hamstring_Slides,"[""glutes""]"
+Plie_Dumbbell_Squat,"[""abdominals"", ""calves"", ""glutes"", ""hamstrings""]"
+Plyo_Kettlebell_Pushups,"[""shoulders"", ""triceps""]"
+Plyo_Push-up,"[""shoulders"", ""triceps""]"
+Posterior_Tibialis_Stretch,[]
+Power_Clean,"[""calves"", ""forearms"", ""glutes"", ""lower back"", ""middle back"", ""quadriceps"", ""shoulders"", ""traps"", ""triceps""]"
+Power_Clean_from_Blocks,"[""quadriceps""]"
+Power_Jerk,"[""abdominals"", ""calves"", ""glutes"", ""hamstrings"", ""shoulders"", ""triceps""]"
+Power_Partials,[]
+Power_Snatch,"[""calves"", ""glutes"", ""lower back"", ""quadriceps"", ""shoulders"", ""traps"", ""triceps""]"
+Power_Snatch_from_Blocks,"[""calves"", ""forearms"", ""glutes"", ""hamstrings"", ""lower back"", ""shoulders"", ""traps"", ""triceps""]"
+Power_Stairs,"[""adductors"", ""calves"", ""glutes"", ""lower back"", ""quadriceps"", ""shoulders"", ""traps""]"
+Preacher_Curl,[]
+Preacher_Hammer_Dumbbell_Curl,"[""forearms""]"
+Press_Sit-Up,"[""chest"", ""shoulders"", ""triceps""]"
+Prone_Manual_Hamstring,[]
+Prowler_Sprint,"[""calves"", ""chest"", ""glutes"", ""quadriceps"", ""shoulders""]"
+Pull_Through,"[""hamstrings"", ""lower back""]"
+Pullups,"[""biceps"", ""middle back""]"
+Push-Up_Wide,"[""abdominals"", ""shoulders"", ""triceps""]"
+Push-Ups_-_Close_Triceps_Position,"[""chest"", ""shoulders""]"
+Push-Ups_With_Feet_Elevated,"[""shoulders"", ""triceps""]"
+Push-Ups_With_Feet_On_An_Exercise_Ball,"[""shoulders"", ""triceps""]"
+Push_Press,"[""quadriceps"", ""triceps""]"
+Push_Press_-_Behind_the_Neck,"[""calves"", ""quadriceps"", ""triceps""]"
+Push_Up_to_Side_Plank,"[""abdominals"", ""shoulders"", ""triceps""]"
+Pushups,"[""shoulders"", ""triceps""]"
+Pushups_Close_and_Wide_Hand_Positions,"[""shoulders"", ""triceps""]"
+Pyramid,"[""shoulders""]"
+Quad_Stretch,[]
+Quadriceps-SMR,[]
+Quick_Leap,"[""calves"", ""hamstrings""]"
+Rack_Delivery,"[""forearms"", ""traps""]"
+Rack_Pull_with_Bands,"[""forearms"", ""glutes"", ""hamstrings"", ""quadriceps"", ""traps""]"
+Rack_Pulls,"[""forearms"", ""glutes"", ""hamstrings"", ""traps""]"
+Rear_Leg_Raises,[]
+Recumbent_Bike,"[""calves"", ""glutes"", ""hamstrings""]"
+Return_Push_from_Stance,"[""chest"", ""triceps""]"
+Reverse_Band_Bench_Press,"[""chest"", ""forearms"", ""lats"", ""middle back"", ""shoulders""]"
+Reverse_Band_Box_Squat,"[""abductors"", ""adductors"", ""calves"", ""forearms"", ""glutes"", ""hamstrings"", ""lower back""]"
+Reverse_Band_Deadlift,"[""abductors"", ""adductors"", ""calves"", ""glutes"", ""hamstrings"", ""quadriceps""]"
+Reverse_Band_Power_Squat,"[""adductors"", ""calves"", ""glutes"", ""hamstrings"", ""lower back""]"
+Reverse_Band_Sumo_Deadlift,"[""abductors"", ""adductors"", ""calves"", ""forearms"", ""glutes"", ""lower back"", ""quadriceps"", ""traps""]"
+Reverse_Barbell_Curl,"[""forearms""]"
+Reverse_Barbell_Preacher_Curls,"[""forearms""]"
+Reverse_Cable_Curl,"[""forearms""]"
+Reverse_Crunch,[]
+Reverse_Flyes,[]
+Reverse_Flyes_With_External_Rotation,[]
+Reverse_Grip_Bent-Over_Rows,"[""biceps"", ""lats"", ""shoulders""]"
+Reverse_Grip_Triceps_Pushdown,[]
+Reverse_Hyperextension,"[""calves"", ""glutes""]"
+Reverse_Machine_Flyes,[]
+Reverse_Plate_Curls,"[""forearms""]"
+Reverse_Triceps_Bench_Press,"[""chest"", ""shoulders""]"
+Rhomboids-SMR,"[""traps""]"
+Rickshaw_Carry,"[""abdominals"", ""calves"", ""glutes"", ""hamstrings"", ""lower back"", ""quadriceps"", ""traps""]"
+Rickshaw_Deadlift,"[""forearms"", ""glutes"", ""hamstrings"", ""lower back"", ""traps""]"
+Ring_Dips,"[""chest"", ""shoulders""]"
+Rocket_Jump,"[""calves"", ""hamstrings""]"
+Rocking_Standing_Calf_Raise,[]
+Rocky_Pull-Ups_Pulldowns,"[""biceps"", ""middle back"", ""shoulders""]"
+Romanian_Deadlift,"[""calves"", ""glutes"", ""lower back""]"
+Romanian_Deadlift_from_Deficit,"[""forearms"", ""glutes"", ""lower back"", ""traps""]"
+Rope_Climb,"[""biceps"", ""forearms"", ""middle back"", ""shoulders""]"
+Rope_Crunch,[]
+Rope_Jumping,"[""calves"", ""hamstrings""]"
+Rope_Straight-Arm_Pulldown,[]
+Round_The_World_Shoulder_Stretch,"[""biceps"", ""chest""]"
+Rowing_Stationary,"[""biceps"", ""calves"", ""glutes"", ""hamstrings"", ""lower back"", ""middle back""]"
+Runners_Stretch,"[""calves""]"
+Running_Treadmill,"[""calves"", ""glutes"", ""hamstrings""]"
+Russian_Twist,"[""lower back""]"
+Sandbag_Load,"[""abdominals"", ""biceps"", ""calves"", ""forearms"", ""glutes"", ""hamstrings"", ""lower back"", ""middle back"", ""shoulders"", ""traps""]"
+Scapular_Pull-Up,"[""lats"", ""middle back""]"
+Scissor_Kick,[]
+Scissors_Jump,"[""glutes"", ""hamstrings""]"
+Seated_Band_Hamstring_Curl,[]
+Seated_Barbell_Military_Press,"[""triceps""]"
+Seated_Barbell_Twist,[]
+Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension,[]
+Seated_Bent-Over_Rear_Delt_Raise,[]
+Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension,[]
+Seated_Biceps,"[""chest"", ""shoulders""]"
+Seated_Cable_Rows,"[""biceps"", ""lats"", ""shoulders""]"
+Seated_Cable_Shoulder_Press,"[""triceps""]"
+Seated_Calf_Raise,[]
+Seated_Calf_Stretch,"[""hamstrings"", ""lower back""]"
+Seated_Close-Grip_Concentration_Barbell_Curl,[]
+Seated_Dumbbell_Curl,[]
+Seated_Dumbbell_Inner_Biceps_Curl,[]
+Seated_Dumbbell_Palms-Down_Wrist_Curl,[]
+Seated_Dumbbell_Palms-Up_Wrist_Curl,[]
+Seated_Dumbbell_Press,"[""triceps""]"
+Seated_Flat_Bench_Leg_Pull-In,[]
+Seated_Floor_Hamstring_Stretch,"[""calves""]"
+Seated_Front_Deltoid,"[""chest""]"
+Seated_Glute,"[""adductors""]"
+Seated_Good_Mornings,"[""glutes""]"
+Seated_Hamstring,"[""calves""]"
+Seated_Hamstring_and_Calf_Stretch,"[""calves""]"
+Seated_Head_Harness_Neck_Resistance,[]
+Seated_Leg_Curl,[]
+Seated_Leg_Tucks,[]
+Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl,[]
+Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl,[]
+Seated_One-arm_Cable_Pulley_Rows,"[""biceps"", ""lats"", ""traps""]"
+Seated_Overhead_Stretch,[]
+Seated_Palm-Up_Barbell_Wrist_Curl,[]
+Seated_Palms-Down_Barbell_Wrist_Curl,[]
+Seated_Side_Lateral_Raise,[]
+Seated_Triceps_Press,[]
+Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl,[]
+See-Saw_Press_Alternating_Side_Press,"[""abdominals"", ""triceps""]"
+Shotgun_Row,"[""biceps"", ""middle back""]"
+Shoulder_Circles,"[""traps""]"
+Shoulder_Press_-_With_Bands,"[""triceps""]"
+Shoulder_Raise,"[""lats""]"
+Shoulder_Stretch,[]
+Side-Lying_Floor_Stretch,[]
+Side_Bridge,"[""shoulders""]"
+Side_Hop-Sprint,"[""abductors"", ""adductors"", ""calves"", ""hamstrings""]"
+Side_Jackknife,[]
+Side_Lateral_Raise,[]
+Side_Laterals_to_Front_Raise,"[""traps""]"
+Side_Leg_Raises,[]
+Side_Lying_Groin_Stretch,"[""hamstrings""]"
+Side_Neck_Stretch,[]
+Side_Standing_Long_Jump,"[""calves"", ""glutes"", ""hamstrings""]"
+Side_To_Side_Chins,"[""biceps"", ""forearms"", ""middle back"", ""shoulders""]"
+Side_Wrist_Pull,"[""forearms"", ""lats""]"
+Side_to_Side_Box_Shuffle,"[""abductors"", ""adductors"", ""calves"", ""hamstrings""]"
+Single-Arm_Cable_Crossover,[]
+Single-Arm_Linear_Jammer,"[""chest"", ""triceps""]"
+Single-Arm_Push-Up,"[""shoulders"", ""triceps""]"
+Single-Cone_Sprint_Drill,"[""calves"", ""glutes"", ""hamstrings""]"
+Single-Leg_High_Box_Squat,"[""glutes"", ""hamstrings""]"
+Single-Leg_Hop_Progression,"[""abductors"", ""adductors"", ""calves"", ""hamstrings""]"
+Single-Leg_Lateral_Hop,"[""abductors"", ""adductors"", ""calves"", ""hamstrings""]"
+Single-Leg_Leg_Extension,[]
+Single-Leg_Stride_Jump,"[""abductors"", ""adductors"", ""calves"", ""hamstrings""]"
+Single_Dumbbell_Raise,"[""forearms"", ""traps""]"
+Single_Leg_Butt_Kick,"[""calves"", ""hamstrings""]"
+Single_Leg_Glute_Bridge,"[""hamstrings""]"
+Single_Leg_Push-off,"[""calves"", ""hamstrings""]"
+Sit-Up,[]
+Sit_Squats,"[""abductors"", ""glutes"", ""hamstrings""]"
+Skating,"[""abductors"", ""adductors"", ""calves"", ""glutes"", ""hamstrings""]"
+Sled_Drag_-_Harness,"[""calves"", ""glutes"", ""hamstrings""]"
+Sled_Overhead_Backward_Walk,"[""calves"", ""middle back"", ""quadriceps""]"
+Sled_Overhead_Triceps_Extension,[]
+Sled_Push,"[""calves"", ""chest"", ""glutes"", ""hamstrings"", ""triceps""]"
+Sled_Reverse_Flye,[]
+Sled_Row,"[""biceps"", ""lats""]"
+Sledgehammer_Swings,"[""calves"", ""forearms"", ""lats"", ""middle back"", ""shoulders""]"
+Smith_Incline_Shoulder_Raise,"[""chest""]"
+Smith_Machine_Behind_the_Back_Shrug,"[""shoulders""]"
+Smith_Machine_Bench_Press,"[""shoulders"", ""triceps""]"
+Smith_Machine_Bent_Over_Row,"[""biceps"", ""lats"", ""shoulders""]"
+Smith_Machine_Calf_Raise,[]
+Smith_Machine_Close-Grip_Bench_Press,"[""chest"", ""shoulders""]"
+Smith_Machine_Decline_Press,"[""shoulders"", ""triceps""]"
+Smith_Machine_Hang_Power_Clean,"[""glutes"", ""lower back"", ""quadriceps"", ""shoulders"", ""traps""]"
+Smith_Machine_Hip_Raise,[]
+Smith_Machine_Incline_Bench_Press,"[""shoulders"", ""triceps""]"
+Smith_Machine_Leg_Press,"[""calves"", ""glutes"", ""hamstrings""]"
+Smith_Machine_One-Arm_Upright_Row,"[""biceps"", ""traps""]"
+Smith_Machine_Overhead_Shoulder_Press,"[""triceps""]"
+Smith_Machine_Pistol_Squat,"[""calves"", ""glutes"", ""hamstrings""]"
+Smith_Machine_Reverse_Calf_Raises,[]
+Smith_Machine_Squat,"[""calves"", ""glutes"", ""hamstrings"", ""lower back""]"
+Smith_Machine_Stiff-Legged_Deadlift,"[""glutes"", ""lower back""]"
+Smith_Machine_Upright_Row,"[""biceps"", ""middle back"", ""shoulders""]"
+Smith_Single-Leg_Split_Squat,"[""calves"", ""glutes"", ""hamstrings""]"
+Snatch,"[""biceps"", ""glutes"", ""hamstrings"", ""lower back"", ""shoulders"", ""traps"", ""triceps""]"
+Snatch_Balance,"[""calves"", ""glutes"", ""hamstrings"", ""shoulders"", ""triceps""]"
+Snatch_Deadlift,"[""forearms"", ""glutes"", ""hamstrings"", ""lower back"", ""quadriceps"", ""traps""]"
+Snatch_Pull,"[""calves"", ""glutes"", ""lower back"", ""quadriceps"", ""traps""]"
+Snatch_Shrug,"[""forearms"", ""shoulders""]"
+Snatch_from_Blocks,"[""calves"", ""forearms"", ""glutes"", ""hamstrings"", ""lower back"", ""shoulders"", ""traps"", ""triceps""]"
+Speed_Band_Overhead_Triceps,[]
+Speed_Box_Squat,"[""calves"", ""glutes"", ""hamstrings""]"
+Speed_Squats,"[""calves"", ""glutes"", ""hamstrings"", ""lower back""]"
+Spell_Caster,"[""glutes"", ""shoulders""]"
+Spider_Crawl,"[""chest"", ""shoulders"", ""triceps""]"
+Spider_Curl,[]
+Spinal_Stretch,"[""lats"", ""lower back"", ""neck"", ""traps""]"
+Split_Clean,"[""calves"", ""forearms"", ""glutes"", ""hamstrings"", ""lower back"", ""shoulders"", ""traps""]"
+Split_Jerk,"[""glutes"", ""hamstrings"", ""shoulders"", ""triceps""]"
+Split_Jump,"[""calves"", ""glutes"", ""hamstrings""]"
+Split_Snatch,"[""calves"", ""forearms"", ""glutes"", ""hamstrings"", ""lower back"", ""quadriceps"", ""shoulders"", ""traps"", ""triceps""]"
+Split_Squat_with_Dumbbells,"[""glutes"", ""hamstrings""]"
+Split_Squats,"[""calves"", ""glutes"", ""quadriceps""]"
+Squat_Jerk,"[""calves"", ""glutes"", ""hamstrings"", ""shoulders"", ""triceps""]"
+Squat_with_Bands,"[""adductors"", ""calves"", ""glutes"", ""hamstrings"", ""lower back""]"
+Squat_with_Chains,"[""adductors"", ""calves"", ""glutes"", ""hamstrings"", ""lower back""]"
+Squat_with_Plate_Movers,"[""abductors"", ""adductors"", ""calves"", ""glutes"", ""hamstrings""]"
+Squats_-_With_Bands,"[""calves"", ""glutes"", ""hamstrings"", ""lower back""]"
+Stairmaster,"[""calves"", ""glutes"", ""hamstrings""]"
+Standing_Alternating_Dumbbell_Press,"[""triceps""]"
+Standing_Barbell_Calf_Raise,[]
+Standing_Barbell_Press_Behind_Neck,"[""triceps""]"
+Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension,"[""shoulders""]"
+Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension,[]
+Standing_Biceps_Cable_Curl,[]
+Standing_Biceps_Stretch,"[""chest"", ""shoulders""]"
+Standing_Bradford_Press,"[""triceps""]"
+Standing_Cable_Chest_Press,"[""shoulders"", ""triceps""]"
+Standing_Cable_Lift,"[""shoulders""]"
+Standing_Cable_Wood_Chop,"[""shoulders""]"
+Standing_Calf_Raises,[]
+Standing_Concentration_Curl,"[""forearms""]"
+Standing_Dumbbell_Calf_Raise,[]
+Standing_Dumbbell_Press,"[""triceps""]"
+Standing_Dumbbell_Reverse_Curl,"[""forearms""]"
+Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head,[]
+Standing_Dumbbell_Triceps_Extension,[]
+Standing_Dumbbell_Upright_Row,"[""biceps"", ""shoulders""]"
+Standing_Elevated_Quad_Stretch,[]
+Standing_Front_Barbell_Raise_Over_Head,[]
+Standing_Gastrocnemius_Calf_Stretch,"[""hamstrings""]"
+Standing_Hamstring_and_Calf_Stretch,[]
+Standing_Hip_Circles,"[""adductors""]"
+Standing_Hip_Flexors,[]
+Standing_Inner-Biceps_Curl,[]
+Standing_Lateral_Stretch,[]
+Standing_Leg_Curl,[]
+Standing_Long_Jump,"[""calves"", ""glutes"", ""hamstrings""]"
+Standing_Low-Pulley_Deltoid_Raise,"[""forearms""]"
+Standing_Low-Pulley_One-Arm_Triceps_Extension,"[""chest"", ""shoulders""]"
+Standing_Military_Press,"[""triceps""]"
+Standing_Olympic_Plate_Hand_Squeeze,"[""biceps""]"
+Standing_One-Arm_Cable_Curl,[]
+Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench,[]
+Standing_One-Arm_Dumbbell_Triceps_Extension,"[""chest"", ""shoulders""]"
+Standing_Overhead_Barbell_Triceps_Extension,"[""shoulders""]"
+Standing_Palm-In_One-Arm_Dumbbell_Press,"[""triceps""]"
+Standing_Palms-In_Dumbbell_Press,"[""triceps""]"
+Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl,[]
+Standing_Pelvic_Tilt,"[""glutes""]"
+Standing_Rope_Crunch,[]
+Standing_Soleus_And_Achilles_Stretch,[]
+Standing_Toe_Touches,"[""calves""]"
+Standing_Towel_Triceps_Extension,[]
+Standing_Two-Arm_Overhead_Throw,"[""chest"", ""lats""]"
+Star_Jump,"[""calves"", ""glutes"", ""hamstrings"", ""shoulders""]"
+Step-up_with_Knee_Raise,"[""hamstrings"", ""quadriceps""]"
+Step_Mill,"[""calves"", ""glutes"", ""hamstrings""]"
+Stiff-Legged_Barbell_Deadlift,"[""glutes"", ""lower back""]"
+Stiff-Legged_Dumbbell_Deadlift,"[""glutes"", ""lower back""]"
+Stiff_Leg_Barbell_Good_Morning,"[""glutes"", ""hamstrings""]"
+Stomach_Vacuum,[]
+Straight-Arm_Dumbbell_Pullover,"[""lats"", ""shoulders"", ""triceps""]"
+Straight-Arm_Pulldown,[]
+Straight_Bar_Bench_Mid_Rows,"[""biceps"", ""lats""]"
+Straight_Raises_on_Incline_Bench,"[""traps""]"
+Stride_Jump_Crossover,"[""abductors"", ""adductors"", ""calves"", ""hamstrings""]"
+Sumo_Deadlift,"[""adductors"", ""forearms"", ""glutes"", ""lower back"", ""middle back"", ""quadriceps"", ""traps""]"
+Sumo_Deadlift_with_Bands,"[""adductors"", ""forearms"", ""glutes"", ""lower back"", ""middle back"", ""quadriceps"", ""traps""]"
+Sumo_Deadlift_with_Chains,"[""abductors"", ""adductors"", ""forearms"", ""glutes"", ""lower back"", ""middle back"", ""quadriceps"", ""traps""]"
+Superman,"[""glutes"", ""hamstrings""]"
+Supine_Chest_Throw,"[""chest"", ""shoulders""]"
+Supine_One-Arm_Overhead_Throw,"[""chest"", ""lats"", ""shoulders""]"
+Supine_Two-Arm_Overhead_Throw,"[""chest"", ""lats"", ""shoulders""]"
+Suspended_Fallout,"[""chest"", ""lower back"", ""shoulders""]"
+Suspended_Push-Up,"[""shoulders"", ""triceps""]"
+Suspended_Reverse_Crunch,[]
+Suspended_Row,"[""biceps"", ""lats""]"
+Suspended_Split_Squat,"[""abductors"", ""adductors"", ""calves"", ""glutes"", ""hamstrings""]"
+Svend_Press,"[""forearms"", ""shoulders"", ""triceps""]"
+T-Bar_Row_with_Handle,"[""biceps"", ""lats""]"
+Tate_Press,"[""chest"", ""shoulders""]"
+The_Straddle,"[""adductors"", ""calves""]"
+Thigh_Abductor,"[""glutes""]"
+Thigh_Adductor,"[""glutes"", ""hamstrings""]"
+Tire_Flip,"[""calves"", ""chest"", ""forearms"", ""glutes"", ""hamstrings"", ""lower back"", ""shoulders"", ""traps"", ""triceps""]"
+Toe_Touchers,[]
+Torso_Rotation,[]
+Trail_Running_Walking,"[""calves"", ""glutes"", ""hamstrings""]"
+Trap_Bar_Deadlift,"[""glutes"", ""hamstrings""]"
+Tricep_Dumbbell_Kickback,[]
+Tricep_Side_Stretch,"[""shoulders""]"
+Triceps_Overhead_Extension_with_Rope,[]
+Triceps_Pushdown,[]
+Triceps_Pushdown_-_Rope_Attachment,[]
+Triceps_Pushdown_-_V-Bar_Attachment,[]
+Triceps_Stretch,"[""lats""]"
+Tuck_Crunch,[]
+Two-Arm_Dumbbell_Preacher_Curl,[]
+Two-Arm_Kettlebell_Clean,"[""calves"", ""glutes"", ""hamstrings"", ""lower back"", ""traps""]"
+Two-Arm_Kettlebell_Jerk,"[""calves"", ""quadriceps"", ""triceps""]"
+Two-Arm_Kettlebell_Military_Press,"[""triceps""]"
+Two-Arm_Kettlebell_Row,"[""biceps"", ""lats""]"
+Underhand_Cable_Pulldowns,"[""biceps"", ""middle back"", ""shoulders""]"
+Upper_Back-Leg_Grab,"[""lower back"", ""middle back""]"
+Upper_Back_Stretch,"[""middle back""]"
+Upright_Barbell_Row,"[""traps""]"
+Upright_Cable_Row,"[""shoulders""]"
+Upright_Row_-_With_Bands,"[""shoulders""]"
+Upward_Stretch,"[""chest"", ""lats""]"
+V-Bar_Pulldown,"[""biceps"", ""middle back"", ""shoulders""]"
+V-Bar_Pullup,"[""biceps"", ""middle back"", ""shoulders""]"
+Vertical_Swing,"[""glutes"", ""quadriceps"", ""shoulders""]"
+Walking_Treadmill,"[""calves"", ""glutes"", ""hamstrings""]"
+Weighted_Ball_Hyperextension,"[""glutes"", ""hamstrings"", ""middle back""]"
+Weighted_Ball_Side_Bend,[]
+Weighted_Bench_Dip,"[""chest"", ""shoulders""]"
+Weighted_Crunches,[]
+Weighted_Jump_Squat,"[""calves"", ""glutes"", ""hamstrings"", ""lower back""]"
+Weighted_Pull_Ups,"[""biceps"", ""middle back""]"
+Weighted_Sissy_Squat,"[""calves"", ""glutes"", ""hamstrings""]"
+Weighted_Sit-Ups_-_With_Bands,[]
+Weighted_Squat,"[""calves"", ""glutes"", ""hamstrings""]"
+Wide-Grip_Barbell_Bench_Press,"[""shoulders"", ""triceps""]"
+Wide-Grip_Decline_Barbell_Bench_Press,"[""shoulders"", ""triceps""]"
+Wide-Grip_Decline_Barbell_Pullover,"[""shoulders"", ""triceps""]"
+Wide-Grip_Lat_Pulldown,"[""biceps"", ""middle back"", ""shoulders""]"
+Wide-Grip_Pulldown_Behind_The_Neck,"[""biceps"", ""middle back"", ""shoulders""]"
+Wide-Grip_Rear_Pull-Up,"[""biceps"", ""middle back"", ""shoulders""]"
+Wide-Grip_Standing_Barbell_Curl,[]
+Wide_Stance_Barbell_Squat,"[""calves"", ""glutes"", ""hamstrings"", ""lower back""]"
+Wide_Stance_Stiff_Legs,"[""adductors"", ""glutes"", ""lower back""]"
+Wind_Sprints,[]
+Windmills,"[""glutes"", ""hamstrings"", ""lower back""]"
+Worlds_Greatest_Stretch,"[""calves"", ""glutes"", ""quadriceps""]"
+Wrist_Circles,[]
+Wrist_Roller,"[""shoulders""]"
+Wrist_Rotations_with_Straight_Bar,[]
+Yoke_Walk,"[""abdominals"", ""abductors"", ""adductors"", ""calves"", ""glutes"", ""hamstrings"", ""lower back""]"
+Zercher_Squats,"[""calves"", ""glutes"", ""hamstrings""]"
+Zottman_Curl,"[""forearms""]"
+Zottman_Preacher_Curl,"[""forearms""]"
