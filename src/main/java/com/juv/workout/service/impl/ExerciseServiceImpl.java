@@ -1,6 +1,8 @@
 package com.juv.workout.service.impl;
 
 import com.juv.workout.domain.Exercise;
+import com.juv.workout.enums.exercise.PrimaryMuscles;
+import com.juv.workout.enums.exercise.SecondaryMuscles;
 import com.juv.workout.repository.ExerciseRepository;
 import com.juv.workout.service.ExerciseService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -27,6 +29,26 @@ public class ExerciseServiceImpl implements ExerciseService {
     @Override
     public List<Exercise> getAllExercises() {
         return exerciseRepository.findAll();
+    }
+
+    @Override
+    public List<Exercise> searchByName(String keyword) {
+        return exerciseRepository.searchByName(keyword);
+    }
+
+    @Override
+    public List<Exercise> searchByPrimaryMuscle(PrimaryMuscles primaryMuscle) {
+        return exerciseRepository.searchByPrimaryMuscle(primaryMuscle);
+    }
+
+    @Override
+    public List<Exercise> searchBySecondaryMuscle(SecondaryMuscles secondaryMuscle) {
+        return exerciseRepository.searchBySecondaryMuscle(secondaryMuscle);
+    }
+
+    @Override
+    public List<Exercise> searchByNameAndMuscleGroup(String keyword, PrimaryMuscles primaryMuscle, SecondaryMuscles secondaryMuscle) {
+        return List.of();
     }
 
 }
